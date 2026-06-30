@@ -1,0 +1,39 @@
+name: pushup_app
+description: "Real-time Push-up Detection via WebSocket"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^9.1.1
+  web_socket_channel: ^3.0.2
+  camera: ^0.11.1+1
+  camera_windows: ^0.2.5+1
+  get_it: ^8.0.3
+  equatable: ^2.0.7
+  image: ^4.5.3
+  file_picker: ^8.0.0+1
+  video_player: ^2.9.5
+  flutter_tts: ^4.2.2
+  google_fonts: ^6.2.1
+  firebase_core: ^3.12.1
+  firebase_auth: ^5.5.4
+  cloud_firestore: ^5.6.5
+  google_generative_ai: ^0.4.7
+  shared_preferences: ^2.3.4
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - asset/

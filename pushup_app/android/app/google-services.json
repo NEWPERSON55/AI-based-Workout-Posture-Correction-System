@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393838006079",
+    "project_id": "gym-ai-ba330",
+    "storage_bucket": "gym-ai-ba330.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393838006079:android:3de8ccd73c71eb093c0d8a",
+        "android_client_info": {
+          "package_name": "com.example.pushup_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70_gp1novuWmZhW1R-TUo6edvMvEz2IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
